@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bhandaribipin3.39@gmail.com**
 
-- ⚡ Fun fact **I also do Sketching**
+- ⚡ Fun fact **I also did Sketching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
