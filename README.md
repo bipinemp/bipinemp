@@ -83,6 +83,13 @@
           title="Redux"
         />
 &nbsp;
+          <img
+          src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"
+          alt="React-Query"
+          width="40"
+          height="40"
+          title="React-Query"
+        />&nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-line.svg"
           alt="Next.JS"
@@ -131,13 +138,6 @@
           title="Github"
         />
 &nbsp;
-       <img
-          src="https://tkdodo.eu/blog/static/e34c9bdb709f49c90b76af647160ca18/73f08/react-query.png"
-          alt="React-Query"
-          width="40"
-          height="40"
-          title="React-Query"
-        />
     </p>
 
 <h3 align="left">Languages and Tools:</h3>
