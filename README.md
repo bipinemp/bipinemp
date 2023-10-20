@@ -18,8 +18,7 @@
 - ⚡ Fun fact **I also do Sketching**
 
 <h3 align="left">Connect with me:</h3>
-   <p align="left" style="text-decoration: none;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+   <p align="left" >
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
           alt="html5"
@@ -27,8 +26,7 @@
           height="40"
           title="HTML5"
         />
-      </a>&nbsp;
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      &nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
           alt="css3"
@@ -36,8 +34,7 @@
           height="40"
           title="CSS3"
         />
-      </a>&nbsp;
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+&nbsp;
         <img
           src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
           alt="tailwind"
@@ -45,8 +42,7 @@
           height="40"
           title="TailwindCSS"
         />
-      </a>&nbsp;
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      &nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
           alt="Bootstrap"
@@ -54,12 +50,7 @@
           height="40"
           title="Bootstrap"
         />
-      </a>&nbsp;
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
+      &nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
           alt="javascript"
@@ -67,12 +58,7 @@
           height="40"
           title="JavaScript"
         />
-      </a>&nbsp;
-      <a
-        href="https://https://www.typescriptlang.org//"
-        target="_blank"
-        rel="noreferrer"
-      >
+      &nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
           alt="TypeScript"
@@ -80,8 +66,7 @@
           height="40"
           title="TypeScript"
         />
-      </a>&nbsp;
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      &nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
           alt="react"
@@ -89,8 +74,7 @@
           height="40"
           title="React.JS"
         />
-      </a>&nbsp;
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+&nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
           alt="redux"
@@ -98,8 +82,7 @@
           height="40"
           title="Redux"
         />
-      </a>&nbsp;
-      <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+&nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-line.svg"
           alt="Next.JS"
@@ -107,8 +90,7 @@
           height="40"
           title="Next.JS"
         />
-      </a>&nbsp;
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+&nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
           alt="nodejs"
@@ -116,8 +98,7 @@
           height="40"
           title="Node.JS"
         />
-      </a>&nbsp;
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+&nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
           alt="express"
@@ -125,8 +106,7 @@
           height="40"
           title="express.js"
         />
-      </a>&nbsp;
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+&nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
           alt="mongodb"
@@ -134,8 +114,7 @@
           height="40"
           title="MongoDB"
         />
-      </a>&nbsp;
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+&nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg"
           alt="MySQL"
@@ -143,8 +122,7 @@
           height="40"
           title="MySQL"
         />
-      </a>&nbsp;
-      <a href="https://https://github.com/" target="_blank" rel="noreferrer">
+&nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg"
           alt="Github"
@@ -152,7 +130,7 @@
           height="40"
           title="Github"
         />
-      </a>&nbsp;
+&nbsp;
     </p>
 
 <h3 align="left">Languages and Tools:</h3>
