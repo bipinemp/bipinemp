@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at ([https://bipin-bhandari.com.np](https://bipin-bhandari.com.np/)/)
 
-- 💬 Ask me about **HTML, CSS, ReactJs**
+- 💬 Ask me about **HTML, CSS, ReactJs, NextJs, ExpressJs**
 
 - 📫 How to reach me **bhandaribipin3.39@gmail.com**
 
