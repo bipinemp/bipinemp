@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipinemp&label=Profile%20views&color=0e75b6&style=flat" alt="bipinemp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bipinemp" target="blank"><img src="https://img.shields.io/twitter/follow/bipinemp?logo=twitter&style=for-the-badge" alt="bipinemp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bipinemp" target="_blank"><img src="https://img.shields.io/twitter/follow/bipinemp?logo=twitter&style=for-the-badge" alt="bipinemp" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at ([https://bipin-bhandari.com.np](https://bipin-bhandari.com.np/)/)
+- 👨‍💻 All of my projects are available at <a href="https://bipin-bhandari.com.np" target="_blank" > Portfolio </a>
 
 - 💬 Ask me about **HTML, CSS, ReactJs, NextJs, ExpressJs**
 
