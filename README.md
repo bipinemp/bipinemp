@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **I also do Sketching**
 
+
 <h3 align="left">Languages and Tools:</h3>
    <p align="left" >
         <img
@@ -139,4 +140,9 @@
         />
 &nbsp;
     </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinemp" alt="bipinemp" /></p>
+    </br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinemp" alt="bipinemp" /></br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bipinemp)](https://github.com/bipinemp/github-profile-trophy) </br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinemp&hide_progress=true) </br>
