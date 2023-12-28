@@ -1,13 +1,12 @@
 [![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://rishavchanda.io)
+
 <h1 align="center" >Hi 👋, I'm Bipin Bhandari</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Full Stack developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipinemp&label=Profile%20views&color=0e75b6&style=flat" alt="bipinemp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bipinemp" target="_blank"><img src="https://img.shields.io/twitter/follow/bipinemp?logo=twitter&style=for-the-badge" alt="bipinemp" /></a> </p>
-
-- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at <a href="https://bipin-bhandari.com.np" target="_blank" > Portfolio </a>
 
@@ -16,7 +15,6 @@
 - 📫 How to reach me **bhandaribipin3.39@gmail.com**
 
 - ⚡ Fun fact **I also do Sketching**
-
 
 <h3 align="left">Languages and Tools:</h3>
    <p align="left" >
@@ -91,13 +89,7 @@
           height="40"
           title="React-Query"
         />&nbsp;
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-line.svg"
-          alt="Next.JS"
-          width="40"
-          height="40"
-          title="Next.JS"
-        />
+        <img src="./icons/nextjs.svg" alt="nextjs" height="40"/>
 &nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
@@ -107,37 +99,13 @@
           title="Node.JS"
         />
 &nbsp;
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-          alt="express"
-          width="40"
-          height="40"
-          title="express.js"
-        />
+        <img src="./icons/express.svg" alt="express" height="40"/>
 &nbsp;
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
-          width="40"
-          height="40"
-          title="MongoDB"
-        />
+        <img src="./icons/mongodb.svg" alt="mongodb" height="40"/>
 &nbsp;
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg"
-          alt="MySQL"
-          width="40"
-          height="40"
-          title="MySQL"
-        />
+        <img src="./icons/mysql.svg" alt="mongodb" height="40"/>
 &nbsp;
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg"
-          alt="Github"
-          width="40"
-          height="40"
-          title="Github"
-        />
+        <img src="./icons/git.svg" alt="mongodb" height="40"/>
 &nbsp;
     </p>
     </br>
