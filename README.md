@@ -12,9 +12,15 @@
 
 - 💬 Ask me about **HTML, CSS, ReactJs, NextJs, ExpressJs**
 
-- 📫 How to reach me **bhandaribipin3.39@gmail.com**
+## 📞 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕎𝕚𝕥𝕙 𝕄𝕖:
 
-- ⚡ Fun fact **I also do Sketching**
+<p align="left">
+<!-- Twitter -->
+  <a href="https://twitter.com/Bipinemp" target="blank"><img align="center" src="./icons/twitter.svg" alt="Bipinemp" height="45" /></a>
+<!-- LinkedIn -->
+  <a href="https://linkedin.com/in/bipin-bhandari-a14904237" target="blank"><img align="center" src="./icons/linkedin.svg" alt="bipin bhandari" height="50" /></a>
+<!-- Instagram -->
+  <a href="https://instagram.com/bipin.emp" target="blank"><img align="center" src="./icons/ig.svg" alt="Bipin Emp" height="50" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
    <p align="left" >
