@@ -107,6 +107,8 @@
 &nbsp;
         <img src="./icons/git.svg" alt="mongodb" height="40"/>
 &nbsp;
+        <img src="./icons/postgres.svg" alt="mongodb" height="40"/>
+&nbsp;
     </p>
     </br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinemp" alt="bipinemp" /></br>
