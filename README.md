@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://bipin-bhandari.com.np" target="_blank" > Portfolio </a>
 
-- My Resume <a href="https://drive.google.com/file/d/1KFETyhFESyyBGbaw6LUpRiqDMK5_xjR9/view" target="_blank" > Drive Link </a>
+- My Resume <a href="https://drive.google.com/file/d/1K7GK09kq1tY3ReCC9kKxEBpoO0Ue91TS/view?usp=sharing" target="_blank" > Drive Link </a>
 
 - 💬 Ask me about **HTML, CSS, ReactJs, NextJs, ExpressJs**
 
